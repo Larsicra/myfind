@@ -1,3 +1,5 @@
+cargo build
+
 输入格式：./target/debug/myfind <目录> --name <正则表达式> (-v)
 目录 / 正则表达式可多个
 
